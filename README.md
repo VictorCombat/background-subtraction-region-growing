@@ -11,7 +11,7 @@
     ·
     <a href="#main-features">Main Features</a>
     ·
-    <a href="#usage">Getting Started</a>
+    <a href="#usage">Usage</a>
     .
     <a href="#gallery">Gallery</a>
     .
