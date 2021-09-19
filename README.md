@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="./images/rg-auto-02.jpg" alt="banner" width="800"></a>
+  <a href="#"><img src="./images/rg-auto-02.jpg" alt="banner" height="350"></a>
 
   <h1 align="center"> Background subtraction & Region Growing </h1>
 
